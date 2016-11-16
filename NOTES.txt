@@ -1,0 +1,27 @@
+
+-- USE A GOOD EDITOR
+	-- With:
+		-- Syntax highlighting
+		-- Bracket matching
+		-- Code folding
+		-- Autocompletion
+
+-- GOOD CLIENT-SIDE SCRIPTING LIBRARY
+	-- jQuery
+	-- Drawing Graphics Primitive (Paper.js, KineticJS, Fabric.js, and EaselJS)
+
+-- TOOLS
+	-- Git
+	-- Package Management: npm
+		-- npm install --save underscore ##UNDERSCORE
+		-- npm install --save-dev gulp ##GULP
+		-- npm install --save-dev babel-preset-es2015 ##BABEL
+		-- npm install --save-dev gulp-babel ##BABEL
+		-- npm install --save-dev gulp-eslint ##ESLINT
+	-- Build Tools: Gulp or Grunt
+	-- The Transcompilers: Babel or Traceur
+
+-- INSTALL A GOOD LINTER
+	-- npm install -g eslint 
+-- CONFIGURE ESLINT
+	-- eslint --init
